@@ -2,3 +2,5 @@ Eric Wayne Adams works for Intel as a Cloud Software Engineer. He was born Augus
 at Intel he has been a validation engineer, software engineer, program manager, android software engineer, and is now a Cloud Software engineer.
 
 Eric's hobbies include home automation, jumping at the trampoline park, and taking his son to the plaground. 
+
+Eric's favorite foods are tacos and burgers. He likes Japanese food as well but isn't a big fan of Chinese food although some of it is good. 
